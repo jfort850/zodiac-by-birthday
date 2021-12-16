@@ -1,0 +1,6 @@
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\bin\Debug\Library.dll
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\bin\Debug\Library.pdb
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\obj\Debug\Library.dll
+D:\C# Projects\ZodiacByBirthdayCode,MockUp,AndFlowchart\ZodiacFinderByBirthday\Library\obj\Debug\Library.pdb

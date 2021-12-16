@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5dd6c81-7f68-4a9b-a86c-2c5900c6bcff": {
+      "ProjectGuid": "d5dd6c81-7f68-4a9b-a86c-2c5900c6bcff",
+      "DisplayName": "ZodiacFinderByBirthday",
+      "ColorIndex": 0
+    },
+    "667ce255-cd65-4483-8e3c-3a467dd5a640": {
+      "ProjectGuid": "667ce255-cd65-4483-8e3c-3a467dd5a640",
+      "DisplayName": "Library",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
